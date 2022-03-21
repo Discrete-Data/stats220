@@ -6,7 +6,7 @@ When I first moved to New Zealand, I was shocked at the price of accommodation h
 
 This meme is more of a policial statement in regards to our current timeline, and formed to create a discussion on what this country needs to build up their educated population. 
 
-##The meme
+## The meme
 ![My Meme](MyMeme.jpg)
 
 ```r
