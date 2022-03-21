@@ -2,8 +2,11 @@
 ## This is my meme that I have created
 
 ### My motivation
+When I first moved to New Zealand, I was shocked at the price of accommodation here. I moved during the pandemic, when the prices were lower than usual, and still found it very hard to find a room I could afford. I know many others also face this problem; having no one to fall back on for help, requiring lots of time and effort for the university workload, and working to afford to live. It feels as if there are too many balls in the air to juggle. Lack of housing development and monopolies on property have allowed the price of rent to sky rocket, just has inflation has caused the average price of grocery shopping to jump. Though this is a hard time for all countries, the fact that 1 in 5 students drop out is a statistic from 2013. There is no doubt that is has grown in this time, espeically because of online classes. 
 
-The meme
+This meme is more of a policial statement in regards to our current timeline, and formed to create a discussion on what this country needs to build up their educated population. 
+
+##The meme
 ![My Meme](MyMeme.jpg)
 
 ```r
